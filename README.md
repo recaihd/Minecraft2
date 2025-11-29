@@ -1,6 +1,6 @@
 <p align="center">
 
-<img height="150" src="https://i.postimg.cc/Jh3LvVwc/peitonnnnn.png">
+<img title="Minecraft no Python" height="150" src="https://i.postimg.cc/Jh3LvVwc/peitonnnnn.png">
 
 </p>
 
