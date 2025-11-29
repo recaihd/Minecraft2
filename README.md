@@ -22,7 +22,7 @@ Já com o Python instalado, No seu vscode ou editor de código de preferência, 
 pip install ursina
 ```
 
-Se ele retornar algum erro ao tentar instalar, e porque a versão do seu python e incompátivel com a biblioteca ursina
+Se ele retornar algum erro ao tentar instalar, e porque a versão do seu python e incompátivel com a biblioteca ursina, Instale a versão [3.10.9](https://www.python.org/downloads/release/python-3109/) ou crie um ambiente virtual pra rodar essa versão
 
 </p>
 
