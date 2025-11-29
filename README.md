@@ -1,3 +1,5 @@
+<p align="center">
+
 <img height="150" src="https://i.postimg.cc/Jh3LvVwc/peitonnnnn.png">
 
 ## Como rodar o Projeto?
@@ -14,3 +16,5 @@ pip install ursina
 ## Como executar o projeto?
 
 - python `<nomedoarquivo>.py`
+
+</p>
